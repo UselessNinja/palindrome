@@ -5,7 +5,7 @@
 ## lib
 ##
 
-CC = 		gcc -g
+CC = 		gcc
 
 SRC= 		my_str_essential.c	\
 		my_str_to_wordtab.c	\
