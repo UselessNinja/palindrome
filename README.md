@@ -1,0 +1,2 @@
+# palindrome
+EPITECH PROJECT - SYN POOL
